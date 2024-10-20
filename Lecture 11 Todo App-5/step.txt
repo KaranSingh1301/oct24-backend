@@ -26,13 +26,12 @@ edit API: Done
 delete API: Done
 
 Dasboard Client (axios)
-axios create API
-axios read API
-axios edit API
-axios delete API
+axios create API: Done
+axios read API: Done
+axios edit API: Done
+axios delete API: Done
 
-Pagination API
-RateLimitng
-Deploy
+Pagination API: Done
+Deploy: Done
 
 Email Base Auth (JWT)
