@@ -43,7 +43,7 @@ const sendEmailVerificationMail = ({ email, verfiedToken }) => {
     service: "gmail",
     auth: {
       user: "kssinghkaran13@gmail.com",
-      pass: "fekn pkdb ydkf lmgy",
+      pass: "",
     },
   });
 
